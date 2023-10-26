@@ -113,7 +113,7 @@ promise==2.3
 prompt-toolkit==3.0.39  
 proto-plus==1.22.3  
 protobuf==4.24.4  
-psycopg2==2.9.9  
+psycopg2-binary 
 pyasn1-modules==0.3.0  
 pyasn1==0.5.0  
 pybars3==0.9.7  
