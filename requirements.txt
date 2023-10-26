@@ -17,8 +17,8 @@ billiard==4.1.0
 boto3==1.28.69  
 botocore==1.31.69  
 braintree==4.22.0  
-brotli==1.1.0 ; platform_python_implementation == "CPython" and python_version >= "3.9" and python_version < "3.10"
-brotlicffi==1.1.0.0 ; platform_python_implementation != "CPython" and python_version >= "3.9" and python_version < "3.10"
+brotli==1.1.0 ; platform_python_implementation == "CPython" 
+brotlicffi==1.1.0.0 ; platform_python_implementation != "CPython" 
 cachetools==5.3.1  
 celery==5.3.4  
 celery[redis]==5.3.4  
